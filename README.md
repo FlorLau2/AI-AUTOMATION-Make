@@ -1,2 +1,2 @@
-# AI-AUTOMATION-N8N
-Este repositorio contiene una automatización de N8N
+# AI-AUTOMATION-Make
+Este repositorio contiene una automatización de Make
